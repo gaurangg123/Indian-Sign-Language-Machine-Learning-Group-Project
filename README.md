@@ -1,1 +1,1 @@
-# Indian-Sign-Language-Machine-Learning-Group-Project-
+# Indian-Sign-Language-Machine-Learning-Group-Project
