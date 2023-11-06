@@ -2,7 +2,7 @@
 
 Indian Sign Language is a Machine Learning Project developed by:-
 <p>
-Tarush Chintala (RA2111027010004)
+<br>Tarush Chintala (RA2111027010004)
 Gaurang Ashava (RA2111027010007)
 Ritesh Mishra (RA2111027010014)
 </p>
