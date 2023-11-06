@@ -13,3 +13,6 @@ The link for the dataset is given below - <href> https://www.kaggle.com/datasets
 The landing page in the project is been made using HTML CSS and basic fundamentals of JS.
 
 In this model, live feed will be captured dynamically within micro-seconds and the output will be given in the .png format which will combine together and form a video.
+
+This is the model which we have designed
+<img src="images/Temp.jpg" alt="Design" width="500" height="600">
