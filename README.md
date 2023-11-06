@@ -16,11 +16,10 @@ In this model, live feed will be captured dynamically within micro-seconds and t
 
 This is the model which we have designed
 <br>
-<br>
 <img src="images/Temp.jpg" alt="Design">
 <br>
-This is the landing page of our model 
 <br>
+This is the landing page of our model 
 <br>
 <img src="images/Temp2.png" alt="Website">
 <br>
