@@ -33,6 +33,8 @@ Below is the Project Report and PPT (link)
 <br>
 <a href="INDIAN SIGN LANGUAGE DETECTION PROJECT REPORT.pdf">Project Report</a>
 <br>
+<br>
 <a href="INDIAN SIGN LANGUAGE DETECTION PPT.pptx" alt="PPT">PPT</a>
 <br>
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<br>
+<a href="[https://www.w3schools.com/](https://www.canva.com/design/DAFqf93MYwQ/SgjEhwO4ILmA5mYJZHGGOA/edit?utm_content=DAFqf93MYwQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://www.canva.com/design/DAFqf93MYwQ/SgjEhwO4ILmA5mYJZHGGOA/edit?utm_content=DAFqf93MYwQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Power Point Presentation View Link</a>
